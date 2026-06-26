@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+desktop.ini
+
+# Model cache (optional – remove this line if you want to commit the .pkl)
+# models/*.pkl
